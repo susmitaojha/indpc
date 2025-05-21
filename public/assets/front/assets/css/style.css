@@ -1215,6 +1215,9 @@ footer .col-9 { padding-left: 100px;}
 .wap { position:fixed; bottom: 20px; right: 20px; z-index: 999;}
 .waNumber { position: fixed; bottom: 20px; right: 90px; width: 200px; z-index: 999;}
 .waNumber a { background: #fff; text-decoration: none; color: #666; font-size: 16px; width: 100%; text-align: center; float: left; margin: 5px 0; border-radius: 200px; padding: 5px 0;}
+.blog-details{
+    color: #c0c0c0;
+}
 
 
 
